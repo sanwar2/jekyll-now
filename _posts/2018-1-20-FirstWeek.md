@@ -3,6 +3,10 @@ layout: post
 title: First Week (January 15-21) 
 ---
 
+
+[https://avatars2.githubusercontent.com/u/8905232?v=3&u=4bd990baebf714adc85abb7a554c53ffaeaaf382&s=140]
+
+
 # What are your expectations of the class?
 
 I'm not familiar with anything in this class, so I expect to spend a lot of time learning. I do not know C++. So, as a minimum, I expect to learn how to read and write programs in C++. I also hope to find out what object-oriented programming really is and why this class is called that. When using Java, I remember creating objects, however, I do not think this is what the class is about. Perhaps the required readings can help with that. Looking at the class website, I also expect to spend a lot of time learning many concepts in detail as well as how to use several different tools. None of this is familiar to me, so I expect to be spending a lot of time in front of a computer wondering why something is not working. 
