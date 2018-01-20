@@ -3,7 +3,7 @@ layout: post
 title: Week of August 28th
 ---
 
-What did you do this past week?
+**What did you do this past week?**
 
 Last week the class only met once. We got our first introduction to the class in this one lecture. We went through the information on the syllabus and the class website. We also learned about the collatz conjecture for the first project. The main purpose of this project is to set up become familiar with some of the tools in this class.    
  
