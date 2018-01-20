@@ -24,7 +24,8 @@ Unlike some other classes, the lectures are informative without being boring. I 
 
 It looks like this was not the first time I was asked to make a blog on Github. I had to relearn everything and the readme at this link as well as this second link were also helpful this time when I started editing the files for this blog. 
 
-<https://github.com/barryclark/jekyll-now/> This link was also helpful when editing because it gave more information: <https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages>  
+<https://github.com/barryclark/jekyll-now/> 
+<https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages>  
 
 
 
