@@ -4,7 +4,7 @@ title: Fifth Week (February 12-18)
 ---
 
 # What did you do this past week?
-This past week I haven't been feeling well. By now, it seems like that will be the norm for the semester. My brother left, I turned in some work that could have been better,  and I've been confined to bed for the last twelve hours after experiencing some severe pain and cold. Last night I took my mom to this new international supermarket which just opened this week. It was so busy, it was like black Friday.  She refused to leave without getting some buffalo fish. 
+This past week I haven't been feeling well. By now, it seems like that will be the norm for the semester. My brother left, I turned in some work that could have been better,  and to end an unlucky week, I've been confined to bed for the last twelve hours after experiencing some severe pain and cold. Last night I took my mom to this new international supermarket which just opened this week. It was so busy, it was like black Friday.  She refused to leave without getting some buffalo fish. 
 
 # What's in your way?
 It seems like there is a conflict between what I want and how I am feeling. My brain isn't working as quickly as I would like and that is making it more difficult to have enough time to complete things. My anxiety is also getting the best of me and making it difficult to concentrate or do things correctly. Maybe something else is going on because I seem to be making more spelling mistakes than usual while writing this. I also seem to be having more trouble than usual getting to the minimum of 350 words.
