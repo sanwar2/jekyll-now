@@ -16,7 +16,7 @@ Next week I have more quizzes to study for and it will be a good idea to try to 
 As the end of the semester is getting closer, I am starting to get more and more worried about my grades and the last test. This past week I saw a slight improvement in my quiz grades but that was the only good news. 
 
 # What's my pick-of-the-week or tip-of-the-week?
-I was reading an article about stress after seeing something on television about people being prone to forget to do things when they are stressed. I certainly feel like my brain doesn't work properly when I am stressed so I wonder why work or school need to be so stressful. Like everything, I believe that everyone can have different reactions to the same situation, so I can't really think of a solution which would work for everyone or every situation. I can agree with the article that the most important thing is to understand yourself and do what works for you. https://www.oakbendmedcenter.org/better-ways-to-cope-with-stress-in-2018/
+I was reading an article about stress after seeing something on television about people being prone to forget to do things when they are stressed. I certainly feel like my brain doesn't work properly when I am stressed so I wonder why work or school need to be so stressful. Like everything, I believe that everyone can have different reactions to the same situation, so I can't really think of a solution which would work for everyone or every situation. I can agree with the article that the most important thing is to understand yourself and do what works for you. (https://www.oakbendmedcenter.org/better-ways-to-cope-with-stress-in-2018/)
 
  
 
