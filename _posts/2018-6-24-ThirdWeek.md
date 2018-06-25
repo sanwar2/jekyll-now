@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Second Week (June 18-24) 
+title: Third Week (June 18-24) 
 ---
 
 # What did you do this past week?
