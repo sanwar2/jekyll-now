@@ -16,5 +16,4 @@ Next week I will try to familiarize myself with D3 and putting the finishing tou
 I've had a little experience with SQL before, however, the way the questions were phrased on hackRank confused me. I wasn't a fan of relational algebra because I had trouble keeping the different types of joins straight in my head. I never thought of select and project as two different things, so how SQL is explained in the class was it different and confusing because it went into lower-level details I never considered before. 
 
 # What's your pick-of-the-week or tip-of-the-week? 
-I started looking into D3 and found this video as well as the attached code really helpful and informative for starting out. I usually find videos easier to understand and like how it's short and is somewhat related to something we were hoping to do when we first started this project at the beginning of the semester. 
-[ https://www.youtube.com/watch?v=bzl4hCH2CdY ] 
+I started looking into D3 and found this video as well as the attached code really helpful and informative for starting out. I usually find videos easier to understand and like how it's short and is somewhat related to something we were hoping to do when we first started this project at the beginning of the semester. [here](https://www.youtube.com/watch?v=bzl4hCH2CdY)
