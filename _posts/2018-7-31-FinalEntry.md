@@ -12,7 +12,7 @@ One thing that this class uses and other programming classes did not is HackerRa
 # What's the most significant thing you learned?
 I would like to say the most significant thing I learned in this class is not related to the material taught in it. If that was it, then it wouldn't impact me at all after the class ended. I think the value of not giving up and getting along with team members who are struggling or seem to get less done is an important life skill. I think normally when working in groups there will always be a difference in skills, experience, and opinions, so it is important to learn how to positively interact with each other instead of insulting people because of their mistakes or shortcomings. In the long run, I think everyone will be happier and more productive that way.
 
-#How many hours a week did you spend coding/debugging/testing for this class?
+# How many hours a week did you spend coding/debugging/testing for this class?
 I think on average I spent about 15 hours a week coding, debugging, and testing. However, I think most of the code I wrote didn't work so, I'm not sure I should count it into this estimate. 
 
 # How many hours a week did you spend reading/studying for this class?
