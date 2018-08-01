@@ -11,22 +11,22 @@ PlantUML was developed by Arnaud Roques and was initially released on April 17th
 
 # installation: step by step instructions on how to install it on different environments, especially on Docker
 PlantUML does not need to be installed locally to be used. If you have internet access and a browser, you can easily edit the example on the home page and get a diagram. The link to the online server is http://www.plantuml.com/plantuml/uml/SyfFKj2rKt3CoKnELR1Io4ZDoSa70000. Once you get to this page, you are ready to go. An alternative is to go to the downloads page at http://plantuml.com/download and download it from the appropriate link. PlantUML is also available as plug-ins or extensions to many programs. While researching plantPML, I even saw a plug-in for my Chrome browser. I personally do not like the official website because it is easy to accidentally click on an advertisement. Here are the steps I took to start using plantUML. 
-Step 1: Open my browser  
-Step 2: Go to https://www.planttext.com/ 
+1. Open my browser  
+2. Go to https://www.planttext.com/ 
 I feel like this website is much friendlier to use and look at. On the left is a text editor to enter plantUML code and on the right is the generated UML diagram. There are also no annoying advertisements to accidentally click on because they look like they could be helpful. There is also an option to download the diagram. Having all this available on one simple and clear page appeals to me more than installing it. Any code written in the text editor can be copied and saved into another file to upload into gitLab or saved locally. The website also tends to remember your last edits, which was nice for this class because that was the only diagram I was working on and I always used the same computer. 
 
 # use: step by step by instructions on how to use it
 At planttext.com there are various samples for different types of diagrams which may be helpful to look at to get an idea of how to write the code. I thought the relationship diagram under classes was the most relevant to this project, but the others were also interesting to look at. To have a title accompany the diagram, all you have to do is write title then follow it with the name you want. You do not write any parenthesis, the code you write is what is inside the parentheses.  So, "title My Sample Title" will write "My Sample Title" centered above your diagram. To add classes to your diagram, all you need to do is type the word "class" followed by the name of the class. If you hit refresh (submit for the official online server), you can see the current diagram this code creates. If there are any methods or attributes you would like to add for the classes you can use follow the class name with curly braces ({}) and within these braces type a plus sign ("+") followed by the name for each attribute. It matters which line you do things, so this is how it is: 
-Step 0: optionally write all the code between "@startuml" and "@endeml"
-Step 1: add a title by writing the keyword "title" followed by what you want as a title 
-Step 2: start at a new line and type "class" followed by the name of the class
-Step 3: type "{" next to the class name
-Step 4: go to the next line 
-Step 5: type "+"
-Step 6: write the name of the method or attribute for that class
-step 7: go to the next line
-step 8: type "}"
-step 9: add relationships or labels between classes
+0. optionally write all the code between "@startuml" and "@endeml"
+1. add a title by writing the keyword "title" followed by what you want as a title 
+2. start at a new line and type "class" followed by the name of the class
+3. type "{" next to the class name
+4. go to the next line 
+5. type "+"
+6. write the name of the method or attribute for that class
+7. go to the next line
+8. type "}"
+9. add relationships or labels between classes
 If you have multiple methods or attributes, you can repeat steps 4-6 until you have added them all and repeat steps 2-8 for any additional classes. The last thing to consider about class diagrams is the relationship between classes. If there aren't any, you can skip this and the diagram is done. However, our models were supposed to be connected to each other, so there should be a relationship between the classes. To draw a line between two classes write the two class names and then put two dashes with spaces on both sides (" -- ") between them. So it will look like "class1 -- class2" on one line. You can also represent an extension, composition or aggregation between classes by typing "<|--", "*--", or "o--" between class names. It's also possible to add labels to the relationship by typing ":" followed by the desired label after the second class. To add labels about cardinality, put the desired text inside quotes ("") on the desired side of the relation. This information, as well as more features that can be added to class diagrams, can be found on this page of the official website: http://plantuml.com/class-diagram.
 
 # use cases: details about why to use it
