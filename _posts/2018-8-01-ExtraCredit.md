@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Extra Credit: Tutorial (PlantUML) 
+title: Extra Credit Tutorial (PlantUML) 
 ---
 
 # introduction: what is the tool for, what was it used for on your project
